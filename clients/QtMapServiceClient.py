@@ -413,3 +413,4 @@ if __name__ == "__main__":
 	window = QtMapServiceClient()
 	window.show()
 	sys.exit(app.exec_())
+self.cbLayer.currentIndexChanged.connect(self.uiDoUpdateScales.up
